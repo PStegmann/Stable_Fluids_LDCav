@@ -1,0 +1,2 @@
+Modification of Jos Stam's original Stable Fluids implementation (paper available e.g. at http://www.dgp.toronto.edu/people/stam/reality/Research/pub.html ).
+Implementation of a lid-driven cavity.
